@@ -18,7 +18,7 @@ def merit_TargetSpectrum(circuit, merit_options, circuit_params = {}):
 		Carr_norm = (circuit['circuit']['circuit_values']['capacities'] - circuit_params['c_specs']['low']) / circuit_params['c_specs']['high']
 		Jarr_norm = (circuit['circuit']['circuit_values']['junctions']  - circuit_params['j_specs']['low']) / circuit_params['j_specs']['high']
 		Larr = circuit['circuit']['circuit_values']['inductances']
-		if len(Carr_norm) == 3 and Larr == None:
+		if Larr is None:  # FIXME DELETE if len(Carr_norm) == 3 and Larr == None:
 			loss_symmetry = np.abs(Carr_norm[0] - Carr_norm[2]) + np.abs(Jarr_norm[0] - Jarr_norm[2])
 			loss += 100 * loss_symmetry
 		else:

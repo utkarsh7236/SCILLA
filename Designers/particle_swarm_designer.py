@@ -118,7 +118,7 @@ class ParticleSwarmDesigner(AbstractDesigner):
 	# NOTE: This needs to be a thread, not a process (!)
 	@thread
 	def run_optimizer(self, optimizer, loss_wrapper, max_iter, sim_id, **kwargs):
-		optimizer.optimize(loss_wrapper, iters = max_iter, verbose = 1, print_step = 1)
+		optimizer.optimize(loss_wrapper, iters = max_iter) #, verbose = 1, print_step = 1) #TODO: Edited Code
 		self.PS_OPTIMIZERS_FINISHED[sim_id] = True
 
 

@@ -1,0 +1,693 @@
+completed fd2c5a5b-dc48-4770-b169-69982f96defb
+fun	2.024842330198503
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.003  0.001  0.005 -0.    -0.003 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	49
+nit	2
+status	1
+success	False
+x	[ 80.572  79.804  81.96  167.162 135.44   48.336]
+===============
+completed 3e04ce12-b885-4545-a78c-4dee46e58915
+fun	2.00115751913746
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.006  0.005 -0.001  0.    -0.003 -0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 93.599   0.     58.471 112.104 121.713  60.61 ]
+===============
+completed fff52dc7-c40d-4d51-bcfb-d85fe46b5f31
+fun	1.697011408116718
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.008  0.001 -0.01   0.004 -0.002 -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	84
+nit	4
+status	1
+success	False
+x	[ 69.521  66.643  60.601 169.698 200.    117.332]
+===============
+completed 9f9e0dc0-470b-433b-b93f-a64a045ae71a
+fun	1.5521391789948933
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.015  0.003  0.011 -0.004 -0.001  0.007]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	84
+nit	4
+status	1
+success	False
+x	[ 57.592   6.004  58.565 128.892 156.811 169.033]
+===============
+completed 21192b05-22f3-450f-ac6d-d15e73132c6d
+fun	1.051948616249151
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.035  0.027  0.041 -0.018 -0.009  0.021]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	168
+nit	4
+status	1
+success	False
+x	[ 51.339   0.     54.24  106.584 151.337 106.823]
+===============
+completed 6b4097b2-5dda-473b-91d7-18b8089a606c
+fun	0.6661522231780269
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.082  0.018  0.105 -0.06  -0.012  0.034]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	175
+nit	4
+status	1
+success	False
+x	[ 65.666   2.913  65.985 100.361 197.484 100.363]
+===============
+completed 2bd9ab29-f588-421c-ab99-400853dd1436
+fun	2.024842330198503
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.003  0.001  0.005 -0.    -0.003 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	49
+nit	2
+status	1
+success	False
+x	[ 80.572  79.804  81.96  167.162 135.44   48.336]
+===============
+completed 396597ed-e37e-4a3f-ae46-f1d2eeefba34
+fun	2.00115751913746
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.006  0.005 -0.001  0.    -0.003 -0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 93.599   0.     58.471 112.104 121.713  60.61 ]
+===============
+completed 82696b90-6e0a-4f15-a352-1e290586d030
+fun	1.4300207714232902
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.018  0.003 -0.013 -0.011 -0.002  0.005]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 75.446   4.968  59.277  93.464 195.998 103.43 ]
+===============
+completed 2c4386fb-6d9c-4245-af6c-b9b19f366f4a
+fun	1.7350078268303897
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.011  0.001  0.006 -0.002  0.     0.005]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 48.493   5.716  58.497 124.838 157.532 178.645]
+===============
+completed 71dffdc0-e0d3-4042-aaf9-d116ee048b33
+fun	1.9121355876959758
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-4.636e-03  1.042e-03  5.505e-03  1.601e-05 -3.727e-03 -3.218e-03]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 86.959  69.351  92.406 151.363 141.916  84.578]
+===============
+completed 25b4a32d-f2d4-4261-af99-6a41ddce421a
+fun	1.6184238786200036
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.011  0.001  0.009  0.004 -0.004 -0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	70
+nit	2
+status	1
+success	False
+x	[ 73.736  92.689  81.669 159.163 186.729 132.894]
+===============
+completed ef1dfdda-b0d4-484a-a276-597b36ff1e8e
+fun	1.7187585539534267
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.008  0.006 -0.007  0.004 -0.002 -0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 80.434   0.     52.155 145.169 138.472 122.77 ]
+===============
+completed 8bb5035c-66da-4a3c-bd18-ec3ab5e329ad
+fun	1.7191301995348036
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.007  0.002 -0.009 -0.003 -0.002  0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 85.548  46.902  59.599 157.119 175.408 168.006]
+===============
+completed 2c81459a-31fc-418c-bc4d-05e74694ae93
+fun	1.7940443564185868
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.006  0.001 -0.009  0.004 -0.001 -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 77.051  18.969  50.552 169.044 183.526 125.938]
+===============
+completed 74185884-62bb-4607-b04e-960b0a67d9ba
+fun	1.8144049226358347
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.007  0.001  0.007 -0.003 -0.003  0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 68.005  86.842  69.32   86.152 168.696 179.299]
+===============
+completed ee0f6b91-1eec-423e-85f7-11b15331dcaf
+fun	1.6625604484987468
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.012  0.004  0.003  0.006  0.    -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 37.539   0.     40.877 167.589 112.759 131.447]
+===============
+completed 58b14c33-898c-47b8-be17-aca3c1abd8f4
+fun	1.4238401327261254
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.002 -0.003 -0.034 -0.005  0.01   0.01 ]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	112
+nit	2
+status	1
+success	False
+x	[  9.84   94.76    9.816 134.325 114.151 146.512]
+===============
+completed a90393eb-0daa-4e3a-b352-c46c0f339373
+fun	1.9432153165215273
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.005  0.003 -0.007  0.001 -0.002 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	35
+nit	4
+status	1
+success	False
+x	[ 37.945  42.809  19.631 109.236 158.763  40.967]
+===============
+completed 2d025ca1-6aab-467f-9f27-62497b67afff
+fun	1.3643040000894433
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.02   0.022 -0.016 -0.009 -0.008  0.009]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	91
+nit	4
+status	1
+success	False
+x	[ 61.886   0.     59.672 140.458 114.807 141.343]
+===============
+completed 58603b58-5707-4952-b166-c87b11afd4fc
+fun	1.7534252680120666
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.012  0.001  0.006 -0.    -0.001  0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	91
+nit	4
+status	1
+success	False
+x	[ 32.214  64.597  32.263  89.568 188.834 155.953]
+===============
+completed 86dbcd54-ea82-4309-803c-3d4037431bd5
+fun	1.3959617139669076
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.032 -0.003  0.003 -0.006  0.01   0.011]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	140
+nit	4
+status	1
+success	False
+x	[ 10.388  94.878  10.637 134.507 113.76  146.129]
+===============
+completed a2c72984-9519-4f03-a469-2e965399702c
+fun	1.9075572438349613
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.003  0.002  0.006  0.002 -0.003 -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	21
+nit	2
+status	1
+success	False
+x	[  0.     22.897  54.589 137.324  21.772 115.303]
+===============
+completed 9c27e519-6f1a-480c-b377-641139005e99
+fun	1.693704778208108
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.005  0.011  0.007  0.003 -0.002 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 41.761   0.     65.472 155.516 102.113 144.211]
+===============
+completed 782f24b1-f801-455a-98ca-ef997d0db6b6
+fun	1.7965005225215918
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.01  -0.    -0.001 -0.004 -0.     0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	49
+nit	2
+status	1
+success	False
+x	[ 32.83   53.406  30.788 122.218  60.933 193.5  ]
+===============
+completed dbd1612b-445c-4eed-8a96-ea6ed2b63e26
+fun	1.9741608499003824
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.004  0.001  0.004  0.001 -0.002 -0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 46.315  78.989  80.441 174.003 149.435 106.466]
+===============
+completed 6e8935a5-b2c6-4ede-bc1c-209d973b198e
+fun	1.9074675874823968
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.006  0.002 -0.004 -0.003 -0.003  0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 76.319  27.476  70.436  85.186 122.224 185.006]
+===============
+completed 8b41337c-7afe-4c2b-8b94-6eef532ac992
+fun	2.0436284627241736
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.005  0.001 -0.006  0.    -0.002 -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 28.634  55.088  11.919  97.897 152.837  16.898]
+===============
+completed 1f51bf2c-2e49-4ecc-a762-1ba66b89124f
+fun	2.0003118058754232
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.004 -0.    -0.006  0.002 -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	18
+nit	2
+status	1
+success	False
+x	[ 51.68   72.137   0.    190.151 168.971]
+===============
+completed 785cf862-b2c5-48ec-9494-4a527d6c00f0
+fun	2.048474775269719
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.008 -0.003 -0.003  0.001 -0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	24
+nit	2
+status	1
+success	False
+x	[ 33.812  12.128  22.368 174.798  85.36 ]
+===============
+completed 4fc327e4-597c-4d59-851c-1336cb1fb982
+fun	1.8936116636587843
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 5.875e-03 -1.244e-04 -5.302e-03 -5.170e-03 -2.776e-05  2.627e-03]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 62.735  11.61   62.223  40.448 199.413 183.327]
+===============
+completed d6763272-01b9-490b-854a-81f9d9b6465f
+fun	1.551990345365038
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.009  0.002 -0.016 -0.004 -0.003  0.008]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 63.049  59.801  55.071 160.18  183.873 161.341]
+===============
+completed 537e1b54-77d0-42a8-bf3a-b511a4edb2ae
+fun	1.8347743867533644
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.007  0.001  0.004  0.002 -0.002 -0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 45.528  86.105  64.172 177.015 171.677 134.931]
+===============
+completed aa93bf8d-c067-42e9-982e-410f87760197
+fun	1.5708705152694267
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.001  0.     0.02   0.004 -0.    -0.007]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	70
+nit	2
+status	1
+success	False
+x	[ 12.501  74.322  21.624 163.586  64.567 120.993]
+===============
+completed f20aa99f-b52f-4750-bb47-8794480cfaf6
+fun	1.7962917551715345
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.009  0.     0.006 -0.001 -0.001  0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 48.599  92.578  61.677 122.081 200.    177.5  ]
+===============
+completed f5923cae-d8b9-4703-99a9-6a64815c8da4
+fun	1.8155593538935422
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-5.376e-03  3.866e-05  3.271e-03  1.097e-03 -4.356e-04  2.308e-04]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	91
+nit	2
+status	1
+success	False
+x	[ 26.665  74.932  26.857 161.667 166.534  87.423]
+===============
+completed 2328d835-dca1-4a48-b30d-0bc6e2aca733
+fun	2.7982669387607646
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.     0.     0.001  0.   ]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	20
+nit	2
+status	1
+success	False
+x	[45.064 38.644 49.251 93.169]
+===============
+completed 66c9f9cd-134a-4727-93c6-1d141186c1ba
+fun	2.7619790177666528
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[-4.057e-04 -5.933e-05  1.094e-03 -9.441e-05]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	50
+nit	2
+status	1
+success	False
+x	[ 37.486  84.641  46.423 144.825]
+===============
+completed d15d9e68-4666-4d58-807c-d98031e5710b
+fun	2.7982669387607646
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.     0.     0.001  0.   ]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	20
+nit	2
+status	1
+success	False
+x	[45.064 38.644 49.251 93.169]
+===============
+completed 7af0682f-00ce-4343-b065-23635cc3cf07
+fun	2.7950448110359583
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.001  0.     0.001  0.   ]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	45
+nit	2
+status	1
+success	False
+x	[84.595 21.949 87.922 65.47 ]
+===============
+completed afc647e0-2020-440d-803c-3bf165402da8
+fun	2.7619790177666528
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[-4.057e-04 -5.933e-05  1.094e-03 -9.441e-05]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	50
+nit	2
+status	1
+success	False
+x	[ 37.486  84.641  46.423 144.825]
+===============
+completed 186cb363-69bf-41d0-ad9e-2c70db2dce7f
+fun	2.7771913032316635
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[ 8.073e-04 -1.514e-05 -6.436e-04 -1.807e-05]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	70
+nit	2
+status	1
+success	False
+x	[85.714 14.902 85.623 71.573]
+===============
+completed 5c83d519-4f71-4ada-bc0f-b5cd6405f6de
+fun	2.2185461384848115
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 2.598e-04  6.100e-04  3.116e-03 -1.152e-03 -1.510e-06]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	54
+nit	2
+status	1
+success	False
+x	[ 54.142   8.35   80.502 119.285 143.304]
+===============
+completed d5d93558-6c0f-4354-9ed6-3fb1089eccd0
+fun	2.133130368668584
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.003  0.    -0.002  0.001 -0.   ]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	66
+nit	2
+status	1
+success	False
+x	[ 51.801   5.062  43.654 177.064 132.984]
+===============
+completed 79051924-7ac7-420f-9927-532aa79a70ad
+fun	2.12578303955898
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.006  0.001 -0.    -0.001 -0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	42
+nit	2
+status	1
+success	False
+x	[ 51.867  39.928  51.057 108.797 104.292]
+===============
+completed 838d4b26-b6dc-426e-9220-56ab804c0f2f
+fun	2.1818760555106307
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.     0.001  0.003 -0.002  0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	54
+nit	2
+status	1
+success	False
+x	[ 53.326  34.065  62.631 118.012 161.278]
+===============
+completed 6dee28db-bdb3-40e2-8072-fa5705c3cc16
+fun	2.2884618980286406
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.003  0.002  0.001 -0.002 -0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	18
+nit	2
+status	1
+success	False
+x	[ 89.786  24.132  43.199  77.259 150.808]
+===============
+completed e8164c3a-e68e-401f-8c85-5bd1a67af2a1
+fun	2.2729643053663087
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.005 -0.     0.001  0.     0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	18
+nit	2
+status	1
+success	False
+x	[  0.     81.277  56.158 192.388 165.98 ]
+===============
+completed ae7f3509-b853-42fa-98f6-fc1fb1e1043f
+fun	2.0109631053025345
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.004  0.013  0.002 -0.005]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	40
+nit	2
+status	1
+success	False
+x	[56.234 12.088 88.487 70.027]
+===============
+completed 82489c5d-76d5-4217-8ec2-4caa74fad5fa
+fun	1.8726212030993583
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.006  0.    -0.007  0.002 -0.001 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	49
+nit	2
+status	1
+success	False
+x	[ 36.839  86.476  35.201 167.761 178.391  54.76 ]
+===============
+completed 931ca1a8-ba86-4879-b7ec-230a128cd9ac
+fun	1.9007516025433935
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.005  0.001 -0.006  0.001 -0.002 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 67.19   76.321  38.963 138.741 195.899  70.436]
+===============
+completed f63cc90a-1835-4c45-842f-24ae361c834a
+fun	1.5737661034235113
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.005  0.01  -0.006 -0.002  0.007]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	18
+nit	2
+status	1
+success	False
+x	[22.124 45.068 86.662 93.698 90.097]
+===============
+completed b9b8b5d7-3c72-49f3-b642-1bcc4854ef94
+fun	2.0961621721227393
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.002  0.001 -0.006  0.003 -0.    -0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	70
+nit	2
+status	1
+success	False
+x	[ 79.275  49.073   0.    141.746 197.726 105.458]
+===============
+completed e454c4d2-b770-45c6-9f5a-70f3d95dcc0a
+fun	1.8050584238828253
+hess_inv	<4x4 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.031 -0.005  0.007  0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	40
+nit	2
+status	1
+success	False
+x	[ 3.091 23.558 39.776 52.839]
+===============
+completed c37fda6f-151c-4bca-b285-9ecc22b2cb1e
+fun	1.8594204906212974
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.001  0.003  0.    -0.001 -0.     0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	49
+nit	2
+status	1
+success	False
+x	[ 25.346   9.137  25.026  68.364  67.053 169.274]
+===============
+completed 53d12f05-0ccd-4fb8-be27-479bf9af30a1
+fun	1.7912783964419707
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 5.315e-03  4.499e-05 -7.770e-03 -8.021e-03  2.870e-04  3.754e-03]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 11.088  95.307   0.     27.152 114.279 111.08 ]
+===============
+completed 6367a5fc-fdaa-421c-8592-4f700698a513
+fun	1.8594204906212974
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.001  0.003  0.    -0.001 -0.     0.001]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	49
+nit	2
+status	1
+success	False
+x	[ 25.346   9.137  25.026  68.364  67.053 169.274]
+===============
+completed 061e298c-bcdf-44da-8596-b628c30b86d1
+fun	1.7912783964419707
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 5.315e-03  4.499e-05 -7.770e-03 -8.021e-03  2.870e-04  3.754e-03]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 11.088  95.307   0.     27.152 114.279 111.08 ]
+===============
+completed 0eafbe47-6584-4eb0-9e88-daab95a9fcae
+fun	1.6473229023832763
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.009  0.002  0.01  -0.007 -0.005  0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 62.599  55.327  82.087 109.91  179.994 110.13 ]
+===============
+completed 20cbf231-b6e7-48bb-ac85-0dd4c56a221f
+fun	1.6569066154390764
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.011  0.003 -0.008 -0.008 -0.003  0.002]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	56
+nit	2
+status	1
+success	False
+x	[ 84.125  20.825  71.546  80.39  188.244 111.983]
+===============
+completed 89374d61-f91f-423c-8202-599d4e085f76
+fun	1.6652556963746825
+hess_inv	<5x5 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.009 -0.009  0.005 -0.003 -0.003]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	60
+nit	2
+status	1
+success	False
+x	[ 41.137  30.013 126.279  97.176  94.152]
+===============
+completed 37cd06b7-48fc-42dd-ac04-58f58df25bb9
+fun	1.563544235364006
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[-0.008  0.014  0.015 -0.008 -0.006  0.004]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	63
+nit	2
+status	1
+success	False
+x	[ 58.248   0.     71.46  102.101 127.971 106.379]
+===============
+completed 0dd05dfd-5b95-4d11-828d-f284b5fe3882
+fun	1.2871108440239865
+hess_inv	<6x6 LbfgsInvHessProduct with dtype=float64>
+jac	[ 0.026  0.007 -0.019  0.006 -0.007 -0.016]
+message	b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT'
+nfev	70
+nit	2
+status	1
+success	False
+x	[ 62.692  23.22   57.995  90.625 200.     85.935]
+===============

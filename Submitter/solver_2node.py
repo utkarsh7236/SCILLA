@@ -101,18 +101,28 @@ def _eigs_2node_singleflux(Carr, Larr, Jarr, phiExt_fix=0, qExt_fix=[0,0], n=6):
 
 	# Capacitance matrix C (not to be confused with Capacitance connectivity matrix Cmat)
 	C = np.diag(np.sum(Cmat, axis=0)) + np.diag(np.diag(Cmat)) - Cmat
+	# print(Cmat.shape)
+	# print(C.shape)
 	C = C * 10.**(-15) #convert fF -> F
+
+	dim = 2 # FIXME should be len(C), but i used 2 instead.
 
 	# Capacitive (kinetic) part of Hamiltonian
 	e = 1.60217662 * 10**(-19) #elementary charge
 	h = 6.62607004 * 10**(-34) #Planck constant
-	T = np.zeros( ((2*n+1)**len(C), (2*n+1)**len(C)) ) #kinetic part of Hamiltonian
+	T = np.zeros( ((2*n+1)**dim, (2*n+1)**dim) ) #kinetic part of Hamiltonian
 	Cinv = np.linalg.inv(C)
 	I = np.eye(2*n+1) #identity matrix
 	Q = np.diag(np.arange(-n,n+1)) #Charge operator
 	Q1 = Q + qExt_fix[0]*I
 	Q2 = Q + qExt_fix[1]*I
 	# More simple construction specific to flux qubit
+	# print(Q1.dot(Q1))
+	# print(I)
+	# print(temp)
+	# print(temp.shape)
+	# print(Cinv.shape)
+	# print(T.shape)
 	T += 0.5*Cinv[0,0] * np.kron(Q1.dot(Q1), I)
 	T += 0.5*Cinv[1,1] * np.kron(I, Q2.dot(Q2))
 	T += Cinv[0,1] * np.kron(Q1, Q2)
@@ -120,7 +130,7 @@ def _eigs_2node_singleflux(Carr, Larr, Jarr, phiExt_fix=0, qExt_fix=[0,0], n=6):
 
 	# Josephson potential part (specific to flux qubit)
 	Jmat = Jmat * 10.**9 #convert GHz -> Hz
-	U = np.zeros(((2*n+1)**len(C),(2*n+1)**len(C))) #potential part of Hamiltonian
+	U = np.zeros(((2*n+1)**dim,(2*n+1)**dim)) #potential part of Hamiltonian
 	Dp = np.diag(np.ones((2*n+1)-1), k=1)
 	Dm = np.diag(np.ones((2*n+1)-1), k=-1)
 	# Add displacement operator terms that were obtained from cosines

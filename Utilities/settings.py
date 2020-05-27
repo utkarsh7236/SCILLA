@@ -47,7 +47,6 @@ class Settings(object):
 						setting.list.append(list_entry)
 				setattr(self, setting_name, setting)
 
-
 			elif isinstance(setting_values, dict):
 				setting = _AbstractSetting(raw = setting_values, general = general_settings)
 				for key, value in setting_values.items():

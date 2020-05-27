@@ -64,7 +64,7 @@ dependencies:
     - pluggy==0.7.1
     - pre-commit==1.10.5
     - py==1.6.0
-    - pyswarms==0.3.1
+    - JJcircuitSim==0.3.1
     - pytest==3.6.4
     - pyyaml==3.13
     - toml==0.9.4

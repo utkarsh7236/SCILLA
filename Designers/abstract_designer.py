@@ -110,11 +110,19 @@ class AbstractDesigner(object):
 		if self.j_specs['dimension']==9:
 			junctions = np.insert(junctions, 6, 0)
 
+		# TODO: Added CODE
+		mask0      = np.ones(self.c_specs['dimension'])
+		indices0   = np.arange(len(mask0))
+		np.random.shuffle(indices0)
+		mask0[indices0[:self.c_specs['dimension']-self.c_specs['keep_num']]] *= 0.
+
 		# Draw capacitances
 		capacities  = np.random.uniform(self.c_specs['low'], self.c_specs['high'], self.c_specs['dimension'])
 		capacities  = capacities * (np.random.uniform(0., 1., self.c_specs['dimension']) < self.c_specs['keep_prob'])
+		capacities *= mask0
+
 		# Case of 4-node circuit: add zero at forbidden connection 2-4
-		if self.c_specs['dimension']==9:
+		if self.c_specs['dimension']==9:  # This dimension is 3 in the 2 node system.
 			capacities = np.insert(capacities, 6, 0)
 		capacities += junctions * CJFACTOR
 
